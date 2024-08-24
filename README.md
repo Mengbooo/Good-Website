@@ -15,3 +15,6 @@ This repository is used to collect some very good-looking, very fun, very intere
 **Simple and elegant**
 ![image](https://github.com/user-attachments/assets/b32f9fe1-9e87-4b99-9b0d-c6f03048f7e7)
 ---
+### https://serious.business/
+**like a post**
+![image](https://github.com/user-attachments/assets/36cc7db7-26f8-4d5b-afb9-4922e31a23ed)
